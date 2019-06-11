@@ -1,0 +1,7 @@
+f=open("input.txt","w")
+f.write("ÖZDEMİR ASAF\tDokuza Kadar On\t2010\n"
+        "CEMAL SÜREYA\tSevda Sözleri\t2000\n"
+        "ALİ LİDAR\tAslında Herkes Haaklı\t2018\n"
+        "ATİLLA İLHAN\tBen Sana Mecburum\t2003\n"
+        "ORHAN VELİ KANIK\tSakın Şaşırma\t2008\n")
+f.close()
